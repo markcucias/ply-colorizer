@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# env & cache
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# big inputs (don’t commit huge samples)
+*.ply
+*.bmp
